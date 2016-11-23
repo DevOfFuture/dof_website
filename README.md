@@ -1,5 +1,6 @@
 # dof_website
 
-Members / Develoers
+Members / Developers
 
-`dongido` - `Onwuka gideon` - `Web Developer { front-end & Back-end } `
+`dongido` - `Onwuka gideon` - `Web Developer { Front-end & Back-end } `
+`tnga` - `Tindo N. Arsel` - `Web Developer { Front-end & Back-end } `
