@@ -48,7 +48,7 @@
                     <div class="col-sm-2 col-xs-9">
                         <!-- Logo Area:: For better view in all device please use logo image max-width 70px -->
                         <div class="logo_area">
-                            <a href="index.html"><img src="img/core-img/logo.png" alt=""></a>
+                            <a href="index.html"><img src="images/dof.png" alt=""></a>
                         </div>
                     </div>
 

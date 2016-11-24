@@ -6,7 +6,7 @@
     <section class="welcome_area" id="home">
         <div class="welcome_slides">
             <!-- Single Slide Start -->
-            <div class="single_slide" style="background-image: url(img/bg-pattern/bg-2.jpg);">
+            <div class="single_slide" style="background-image: url(images/dof.png);">
                 <div class="slide_text">
                     <div class="table">
                         <div class="table_cell">
@@ -1219,4 +1219,4 @@
         <div class="map_area" id="googleMap"></div>
     </div>
     <!-- ::::::::::::::::::::::::::: Map Area End ::::::::::::::::::::::::::: -->
-<?php include("footer.php") ?>
+<?php include("footer.php"); ?>
