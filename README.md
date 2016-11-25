@@ -7,3 +7,5 @@ Members / Developers
 `tnga` - `Tindo N. Arsel` - `Web Developer { Front-end & Back-end } `
 
 `sdmg15` - `Sonkeng Maldini ` - ` Java && Ruby dev ` 
+
+`nejos97` -`Nenba Jonathan`- `Java,PHP && C Dev`
