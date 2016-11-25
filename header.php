@@ -1,3 +1,18 @@
+<?
+/**
+* @author : Onwuka Gideon  <dongidomed@gmail.com> <dongido>
+* @Description: Sends email...
+*/
+   if($_SERVER['REQUEST_METHOD'] == "POST"){
+    die("mail integration in progress...");
+      $name    = $_POST[''];
+      $email   = $_POST[''];
+      $phone   = $_POST[''];
+      $message = $_POST[''];
+      $subject = $_POST[''];
+      $status = (mail()) ? "success" : 'fail' ;
+   }
+?>
 <!DOCTYPE html>
 <html lang="en">
 

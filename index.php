@@ -1158,7 +1158,7 @@
                     </div>
 
                     <div class="contact_from">
-                        <form action="http://demo.designing-world.com/bizmat-v2/bizmat/mail.php" method="post" id="main_contact_form">
+                        <form action="" method="post" id="main_contact_form">
                             <!-- Message Input Area Start -->
                             <div class="contact_input_area">
                                 <div id="success_fail_info"></div>
