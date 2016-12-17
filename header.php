@@ -1,4 +1,4 @@
-<?
+<?php
 /**
 * @author : Onwuka Gideon  <dongidomed@gmail.com> <dongido>
 * @Description: Sends email...
