@@ -3,6 +3,7 @@
 * @author : Onwuka Gideon  <dongidomed@gmail.com> <dongido>
 * @Description: Sends email...
 */
+/* comented out by emma :p
    if($_SERVER['REQUEST_METHOD'] == "POST"){
     die("mail integration in progress...");
       $name    = $_POST[''];
@@ -12,6 +13,7 @@
       $subject = $_POST[''];
       $status = (mail()) ? "success" : 'fail' ;
    }
+*/
 ?>
 <!DOCTYPE html>
 <html lang="en">
