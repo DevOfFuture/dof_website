@@ -14,7 +14,7 @@
                             <a class="btn btn-default" href="#" role="button"><i class="icofont icofont-social-linkedin"></i></a>
                         </div>
                         <div class="footer_bottom">
-                            <p><b>&lt;/ &gt; </b> with <i class="icofont icofont-heart-alt"></i> by <a href="#">DEV OF FUTURE</a></p>
+                            <p><b>&lt;/ &gt; </b> with <i class="icofont icofont-heart-alt"></i> by <a href="#"><img src="images/dof.png" alt="" width="20px" heigth="120px"></a></p>
                         </div>
                         <!-- Bottom Footer Copywrite Text Area End -->
                     </div>
