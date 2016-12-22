@@ -116,16 +116,10 @@
                     <div class="col-xs-12 col-sm-6">
                         <!-- About Us Text Start -->
                         <div class="about_us_text">
-                            <h3>Welcome to Bizmat Business</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex doloribus ad dolore qui, pariatur, quod ipsum eos aspernatur vero eum magnam error, non quasi repudiandae nostrum, corrupti. Sed odit vitae deserunt minus. Modi distinctio tenetur dolorem, nemo aliquam sint voluptate!</p>
+                            <h3>Welcome to DEV OF FUTURE</h3>
+                            <p> We believe we can change the world</p>
                             <h5>Valid HTML5 / CSS3</h5>
                             <h5>Awesome Unique Design</h5>
-                            <h5>Cross Browser Compatibility</h5>
-                            <h5>Super Responsive</h5>
-                            <h5>Start-up Solution</h5>
-                            <div class="learn_more_btn">
-                                <a class="btn btn-default" href="#" role="button">Learn More</a>
-                            </div>
                         </div>
                     </div>
 
