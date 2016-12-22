@@ -11,7 +11,7 @@
                     <div class="table">
                         <div class="table_cell">
                             <h2>An Simple Idea can <span>Change the World</span></h2>
-                            <h3>We're all working together; that's the secret.</h3>
+                            <h3>We're all working together; that's the secret!.</h3>
                             <div class="welcome_btn">
                                 <a class="btn btn-1 btn-default btn-lg active" href="#" role="button">Learn More</a>
                                 <a class="btn btn-2 btn-default btn-lg" href="#" role="button">Get Started</a>
