@@ -11,3 +11,5 @@ Members / Developers
 `emma` 
 
 `nejos97` -`Nenba Jonathan`- `Java,PHP && C Dev`
+
+`precioustosin` - `Akinbobola Tosin` - `Fullstack Software Developer (Javascript)`
