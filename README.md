@@ -8,8 +8,10 @@ Members / Developers
 
 `sdmg15` - `Sonkeng Maldini ` - ` Java && Ruby dev `
 
-`emma` 
+`emma`
 
 `nejos97` -`Nenba Jonathan`- `Java,PHP && C Dev`
 
 `precioustosin` - `Akinbobola Tosin` - `Fullstack Software Developer (Javascript)`
+
+`JoseCage` - `José Cage` - `Web Developer { PHP & Ruby }`
