@@ -15,3 +15,5 @@ Members / Developers
 `precioustosin` - `Akinbobola Tosin` - `Fullstack Software Developer (Javascript)`
 
 `JoseCage` - `José Cage` - `Web Developer { PHP & Ruby }`
+
+`HalidCisse` - `Halid Cisse` - `.NET, WPF, asp, Azure Cloud` `Fullstack Software Developer (Javascript)`
